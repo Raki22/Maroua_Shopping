@@ -3,6 +3,13 @@
   width: 90%;
   margin: 0 auto;
 }
+.navbar:hover .nav-link{
+  color:black;
+}
+.navbar:hover .nav-link:hover{
+  color:#2A6AE8;
+  border-bottom: #2A6AE8 solid 1.5px;
+}
 /*
 #app {
   max-width: 1280px;
