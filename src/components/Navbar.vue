@@ -27,8 +27,8 @@
             <li><a class="dropdown-item" href="#">About us</a></li>
             <li><a class="dropdown-item" href="#">Where we are</a></li>
             <li><a class="dropdown-item" href="#">Founded story</a></li>
-          </ul>
-        </li>
+    </ul>
+      </li>
       <NavbarItem title="Services"/>
       <NavbarItem title="How it works"/>
       <NavbarItem title="Resources"/>
@@ -40,8 +40,10 @@
         
         <button type="button" class="btn btn-light">Log in</button>
       </form>
+    
     </div>
   </div>
+ 
 </nav>
     </template>
 <style scoped>  
@@ -71,20 +73,22 @@
     cursor: pointer;
 }
 .dropdown:hover .dropdown-menu{
-        display: block;
+  display: inline-flex;
+
     }
 .navbar:hover {
   background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .navbar-brand {
-  background-image: url('@/assets/logo.png');
+  background-image: url('@/assets/images/logo.png');
   width: 87px;
   background-repeat: no-repeat;
   height: 58px;
 }
 .navbar:hover .navbar-brand{
-  background-image: url('@/assets/logo2.png');
+  background-image: url('@/assets/images/logo2.png');
 }
 .navbar-collapse{
   margin-bottom: 9px;
@@ -92,6 +96,27 @@
 .navbar:hover .btn {
   background-color: #2A6AE8;
   color: white;
+}
+.dropdown-item {
+  width: 25%;
+  padding-right: 50px;
+  font-weight: 500;
+}
+.dropdown-menu{
+    width: 1264px;
+    left: -160px;
+    
+    border-radius: 0;
+    border-color: white;
+    box-shadow: inset rgb(0 0 0 / 35%) 0px 1px 3px;
+    padding-top: 27px;
+    padding-bottom: 15px;
+    height: 90px;
+    padding-left: 170px;
+}
+.dropdown-item:hover{
+  color:#2A6AE8;
+  background-color: transparent;
 }
 </style>
     
