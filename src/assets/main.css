@@ -1,6 +1,6 @@
 @import "./base.css";
 .container {
-  width: 90%;
+  width: 78%;
   margin: 0 auto;
 }
 .navbar:hover .nav-link{

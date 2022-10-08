@@ -30,7 +30,7 @@ p {
 .section {
     color: white;
     margin-top: 9%;
-    margin-left: 5%;
+   
 }
   </style>
   

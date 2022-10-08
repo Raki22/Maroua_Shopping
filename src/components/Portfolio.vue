@@ -33,17 +33,15 @@
   
   <style scoped>
 .section{
-    width: 100%;
-    height: 620px;
-    padding-left: 5%;
     margin-top: 4%;
 }
 h1 {
-    color: black;
+    color: #040C1C;
     font-weight: 700;
 }
 p {
     width: 58%;
 }
+
   </style>
   
