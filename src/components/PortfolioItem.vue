@@ -32,9 +32,7 @@
   </template>
   
   <style scoped>
-a {
-    text-decoration: none;
-}
+
 .card-body{
     background-color: var(--color);
     text-align: center;

@@ -14,6 +14,9 @@ h1 {
   color: #040C1C;
   font-weight: 700;
 }
+a {
+  text-decoration: none;
+}
 /*
 #app {
   max-width: 1280px;
