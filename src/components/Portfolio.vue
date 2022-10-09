@@ -35,10 +35,7 @@
 .section{
     margin-top: 4%;
 }
-h1 {
-    color: #040C1C;
-    font-weight: 700;
-}
+
 p {
     width: 58%;
 }

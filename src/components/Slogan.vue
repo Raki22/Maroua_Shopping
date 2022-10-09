@@ -23,6 +23,7 @@
   <style scoped>
 h1 {
     font-size: 61px;
+    color: white;
 }
 p {
     font-size: 20px;

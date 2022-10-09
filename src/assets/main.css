@@ -10,6 +10,10 @@
   color:#2A6AE8;
   border-bottom: #2A6AE8 solid 1.5px;
 }
+h1 {
+  color: #040C1C;
+  font-weight: 700;
+}
 /*
 #app {
   max-width: 1280px;
