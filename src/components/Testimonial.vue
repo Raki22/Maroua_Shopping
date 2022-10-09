@@ -1,0 +1,124 @@
+<script>
+    import TestimonialItem from './TestimonialItem.vue';
+    export default {
+      name: 'Testimonial',
+      components: {
+        TestimonialItem,
+      }
+    
+    }
+    </script>
+  
+  <template>
+   <div class="section container">
+         <div class="row col-md-6">
+      
+            <h1>Join Marwa</h1>
+            <p>Homerun customers share a passion for culture,
+            design and innovation. We all agree hiring can be more meaningful and personal.</p>
+        </div>
+            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+	<!-- Carousel indicators -->
+	<ol class="carousel-indicators">
+		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+	</ol>   
+	<!-- Wrapper for carousel items -->
+	<div class="carousel-inner">		
+		<TestimonialItem className="active" image="src/assets/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+        paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
+        <TestimonialItem image="src/assets/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+        paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
+        <TestimonialItem image="src/assets/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+        paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
+
+    </div>
+	<!-- Carousel controls -->
+	<a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+		<i class="fa fa-angle-left"></i>
+	</a>
+	<a class="carousel-control-next" href="#myCarousel" data-slide="next">
+		<i class="fa fa-angle-right"></i>
+	</a>
+    </div>
+    
+</div>
+  </template>
+  
+  <style scoped>
+.section{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    background-color: #0F2A62;
+    border-radius: 10px;
+    height: 705px;
+}
+h1, p {
+    color: white;
+}
+
+.row {
+    padding-top: 3%;
+    padding-left: 3%;
+}
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+.btn {
+    margin-top: 9%;
+    font-size: 12px;
+}
+.col-md-5 {
+    margin-left: 8%;
+}
+/************************************************** */
+.carousel-inner {
+    padding-right: 65px;
+    padding-left: 19px;
+    padding-top: 16px;
+}
+.carousel .star-rating i {
+	font-size: 18px;
+	color: #ffdc12;
+}
+.carousel-control-prev, .carousel-control-next {
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	text-shadow: none;
+	top: 460px;
+    right: 65px;
+    border: 2px solid white;
+    opacity: 1;
+    
+}
+.carousel-control-prev i, .carousel-control-next i {
+	font-size: 20px;
+	margin-right: 2px;
+}
+.carousel-control-prev {
+	left: 19px;
+}
+.carousel-control-next i {
+	margin-right: -2px;
+}
+.carousel .carousel-indicators {
+	bottom: -62px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+	width: 11px;
+	height: 11px;
+	margin: 1px 5px;
+	border-radius: 50%;
+}
+.carousel-indicators li {	
+	background: #888;
+	border: none;
+}
+.carousel-indicators li.active {		
+	background: white;		
+}
+  </style>
+  

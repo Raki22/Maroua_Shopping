@@ -42,7 +42,9 @@
   </template>
   
   <style scoped>
-
+.section {
+    padding-bottom: 6%;
+}
 h4 {
     color: #040C1C;
     font-weight: 500;
