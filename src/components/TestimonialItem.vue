@@ -18,10 +18,10 @@
   <template>
     
         <div class="carousel-item" :class="className">
-            <div class="col-md-6">
-                <div class="img-box"><img :src=image></div>
+            <div class="col-md-6 col-sm-5">
+               <img class="img-box" :src=image />
             </div>
-            <div class="col-md-6 rightBloc">
+            <div class="col-md-6 col-sm-5 rightBloc">
                 <h5 class="testimonial">{{title}}</h5>
                 <h5 class="overview">{{caption}}</h5>
                 <h4 class="paragraph">{{paragraph}}</h4>
@@ -51,11 +51,12 @@
 	text-align: center;
 	overflow: hidden;
 	min-height: 340px;
-    display: inline-flex;
+
 }
 
-.img-box img {
+.img-box  {
 	width: 100%;
+    height: 100%;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 	
@@ -78,6 +79,7 @@ padding-left: 34px;
 text-align: left;
 border-top-right-radius: 10px;
 border-bottom-right-radius: 10px;
+padding-bottom: 5%;
 }
   </style>
   

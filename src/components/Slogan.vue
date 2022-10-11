@@ -22,7 +22,7 @@
   
   <style scoped>
 h1 {
-    font-size: 61px;
+    font-size: 3.5rem;
     color: white;
 }
 p {

@@ -11,7 +11,7 @@
   
   <template>
    <div class="section container">
-         <div class="row col-md-6">
+         <div class="row col-md-8">
       
             <h1>Join Marwa</h1>
             <p>Homerun customers share a passion for culture,
@@ -78,10 +78,6 @@ img {
     padding-right: 65px;
     padding-left: 19px;
     padding-top: 16px;
-}
-.carousel .star-rating i {
-	font-size: 18px;
-	color: #ffdc12;
 }
 .carousel-control-prev, .carousel-control-next {
 	width: 30px;
