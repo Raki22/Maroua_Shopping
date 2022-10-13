@@ -26,15 +26,15 @@
         </div>
         <div class ="row container">
             <div class="col-md-4">
-                <NewsItem image="/images/newsItem1.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/newsItem1.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
 
             </div>
             <div class="col-md-4">
-                <NewsItem image="/images/newsItem2.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/newsItem2.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
 
             </div>
             <div class="col-md-4">
-                <NewsItem image="/images/newsItem3.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/newsItem3.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
             </div>
         </div>
     
