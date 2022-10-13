@@ -14,7 +14,7 @@
             <h1>Latest News and Events</h1>
             <a class="seeAll" href="#">See all <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <div class="col-md-5">
-                <img src="src/assets/images/news-cover.png"/>
+                <img src="/src/assets/images/news-cover.png"/>
             </div>
             <div class="col-md-6">
                 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>

@@ -15,7 +15,7 @@
             <button type="button" class="btn btn-primary">Come to join us</button>
         </div>
         <div class="col-md-5">
-            <img src="src/assets/images/join.png"/>
+            <img src="/src/assets/images/join.png"/>
         </div>
     </div>
     

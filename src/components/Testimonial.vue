@@ -52,7 +52,7 @@
     margin-bottom: 3%;
     background-color: #0F2A62;
     border-radius: 10px;
-    height: 705px;
+   
 }
 h1, p {
     color: white;
@@ -99,9 +99,6 @@ img {
 }
 .carousel-control-next i {
 	margin-right: -2px;
-}
-.carousel .carousel-indicators {
-	bottom: -62px;
 }
 .carousel-indicators li, .carousel-indicators li.active {
 	width: 11px;

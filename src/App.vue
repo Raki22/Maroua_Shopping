@@ -5,6 +5,7 @@
    <Join />
    <News />
    <Testimonial />
+   <WaitingFor />
 </template>
 
 <script>
@@ -13,6 +14,7 @@ import Portfolio from './components/Portfolio.vue';
 import Join from './components/Join.vue';
 import News from './components/News.vue';
 import Testimonial from './components/Testimonial.vue';
+import WaitingFor from './components/WaitingFor.vue';
 
 export default {
   name: 'App',
@@ -21,7 +23,8 @@ export default {
     Portfolio,
     Join,
     News,
-    Testimonial
+    Testimonial,
+    WaitingFor
 },
 
 }
