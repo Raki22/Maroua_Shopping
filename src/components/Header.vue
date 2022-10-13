@@ -25,7 +25,7 @@
 .section1 {
   width: 100%;
   height: 620px;
-  background-image: url('@/assets/images/header-bg.png');
+  background-image: url('/images/header-bg.png');
   background-size: cover;
 }
 

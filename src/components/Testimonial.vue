@@ -26,11 +26,11 @@
 	</ol>   
 	<!-- Wrapper for carousel items -->
 	<div class="carousel-inner">		
-		<TestimonialItem className="active" image="/src/assets/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+		<TestimonialItem className="active" image="/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
         paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
-        <TestimonialItem image="/src/assets/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+        <TestimonialItem image="/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
         paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
-        <TestimonialItem image="/src/assets/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+        <TestimonialItem image="/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
         paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
 
     </div>

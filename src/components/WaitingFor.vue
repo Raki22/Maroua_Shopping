@@ -13,7 +13,7 @@
         
         <div class="col-md-2">
             <div class="card">
-                <img  src="/src/assets/images/doc1.png" class="card-img-top">
+                <img  src="/images/doc1.png" class="card-img-top">
            
                 <p class="card-text">Lorem ipsum dolor.</p>
             
@@ -22,7 +22,7 @@
         </div>
         <div class="col-md-2">
             <div class="card">
-                <img  src="/src/assets/images/doc2.png" class="card-img-top">
+                <img  src="/images/doc2.png" class="card-img-top">
            
                 <p class="card-text">Lorem ipsum dolor.</p>
             
@@ -30,7 +30,7 @@
         </div>
         <div class="col-md-2">
             <div class="card" style="border-right:0;">
-                <img  src="/src/assets/images/doc3.png" class="card-img-top">
+                <img  src="/images/doc3.png" class="card-img-top">
            
                 <p class="card-text">Lorem ipsum dolor.</p>
             

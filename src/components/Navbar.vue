@@ -82,13 +82,13 @@
 }
 
 .navbar-brand {
-  background-image: url('@/assets/images/logo.png');
+  background-image: url('/images/logo.png');
   width: 87px;
   background-repeat: no-repeat;
   height: 58px;
 }
 .navbar:hover .navbar-brand{
-  background-image: url('@/assets/images/logo2.png');
+  background-image: url('/images/logo2.png');
 }
 .navbar-collapse{
   margin-bottom: 9px;

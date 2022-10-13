@@ -14,7 +14,7 @@
             <h1>Latest News and Events</h1>
             <a class="seeAll" href="#">See all <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <div class="col-md-5">
-                <img src="/src/assets/images/news-cover.png"/>
+                <img src="/images/news-cover.png"/>
             </div>
             <div class="col-md-6">
                 <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h4>
@@ -26,15 +26,15 @@
         </div>
         <div class ="row container">
             <div class="col-md-4">
-                <NewsItem image="/src/assets/images/newsItem1.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="/images/newsItem1.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
 
             </div>
             <div class="col-md-4">
-                <NewsItem image="/src/assets/images/newsItem2.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="/images/newsItem2.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
 
             </div>
             <div class="col-md-4">
-                <NewsItem image="/src/assets/images/newsItem3.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="/images/newsItem3.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
             </div>
         </div>
     
