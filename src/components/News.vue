@@ -26,15 +26,15 @@
         </div>
         <div class ="row container">
             <div class="col-md-4">
-                <NewsItem image="src/assets/images/newsItem1.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="/src/assets/images/newsItem1.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
 
             </div>
             <div class="col-md-4">
-                <NewsItem image="src/assets/images/newsItem2.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="/src/assets/images/newsItem2.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
 
             </div>
             <div class="col-md-4">
-                <NewsItem image="src/assets/images/newsItem3.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
+                <NewsItem image="/src/assets/images/newsItem3.png" caption="Lorem ipsum dolor sit amet, consectetur adipiscing elit." />
             </div>
         </div>
     

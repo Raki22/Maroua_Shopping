@@ -19,13 +19,13 @@
     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor aenean sit feugiat ridiculus quam in.</p>
     <div class="row">
         <div class="col-md-4">
-            <PortfolioItem image="src/assets/images/company.png" caption="Explore company" color="#B692F6"/>
+            <PortfolioItem image="/src/assets/images/company.png" caption="Explore company" color="#B692F6"/>
         </div>
         <div class="col-md-4">
-            <PortfolioItem image="src/assets/images/services.png" caption="Explore services" color="#FDB022"/>
+            <PortfolioItem image="/src/assets/images/services.png" caption="Explore services" color="#FDB022"/>
         </div>
         <div class="col-md-4">
-            <PortfolioItem image="src/assets/images/future.png" caption="Explore future" color="#F97066"/>
+            <PortfolioItem image="/src/assets/images/future.png" caption="Explore future" color="#F97066"/>
         </div>
     </div>
 </div>
