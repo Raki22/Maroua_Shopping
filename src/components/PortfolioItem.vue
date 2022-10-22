@@ -51,11 +51,13 @@
 .card img{
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
-    height: 230px;
+    
 }
 .card:hover{
      transform: scale(1.05);
-  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+.card:hover .card-body {
+  background-color: #f9a202;
 }
   </style>
   
