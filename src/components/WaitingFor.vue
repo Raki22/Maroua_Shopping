@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="col-md-3">
-        <button type="button" class="btn btn-primary">Come to join us</button>
+        <button type="button" class="btn btn-primary btn-lg">Come to join us</button>
     </div>
    
     </div>
@@ -47,13 +47,13 @@
   <style scoped>
 .section{
     background-color: #F9FAFB;
-    height: 448px;
+    padding-bottom: 100px;
 }
 .wrapper {
     display: inline-flex;
     justify-content: center;
     width: 100%;
-    padding-top: 10%;
+    padding-top: 6%;
 }
 .card {
     border-color: transparent;
@@ -78,7 +78,7 @@ h1 {
 }
 .btn {
     margin-top: 25%;
-    font-size: 12px;
+    font-size: 18px;
 }
 .col-md-3 {
     margin: 0 auto;
