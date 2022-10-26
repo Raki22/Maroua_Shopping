@@ -12,7 +12,7 @@
             <h4>Join Marwa and grow with us, experiences by yourself.</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc euismod condimentum gravida aliquet venenatis suspendisse pulvinar tortor sed. Et,
                 hac ac at nisl sed nullam sit gravida. Quam tempus elit, consectetur nibh sodales sed arcu.</p>
-            <button type="button" class="btn btn-primary">Come to join us</button>
+            <button type="button" class="btn btn-primary btn-lg">Come to join us</button>
         </div>
         <div class="col-md-5">
             <img src="/images/join.png"/>
@@ -46,7 +46,7 @@ img {
 }
 .btn {
     margin-top: 9%;
-    font-size: 12px;
+    font-size: 18px;
 }
 .col-md-5 {
     margin-left: 8%;

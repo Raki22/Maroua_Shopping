@@ -15,7 +15,7 @@
     <div class="col-md-9 section">
         <h1>{{title}}</h1>
         <p>{{caption}}</p>
-        <button type="button" class="btn btn-primary">Explore Marwa</button>
+        <button type="button" class="btn btn-primary btn-lg">Explore Marwa</button>
     </div>
 </div>
   </template>
@@ -27,6 +27,9 @@ h1 {
 }
 p {
     font-size: 20px;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+   
 }
 .section {
     color: white;
