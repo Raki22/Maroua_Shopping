@@ -26,11 +26,13 @@
 	</ol>   
 	<!-- Wrapper for carousel items -->
 	<div class="carousel-inner">		
-		<TestimonialItem className="active" image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+		<TestimonialItem className="active"
+         image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/testimonial.png" 
+         title="Lorem ipsum 1." caption="Lorem ipsum."
         paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
-        <TestimonialItem image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+        <TestimonialItem image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/testimonial.png" title="Lorem ipsum 2." caption="Lorem ipsum."
         paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
-        <TestimonialItem image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/testimonial.png" title="Lorem ipsum." caption="Lorem ipsum."
+        <TestimonialItem image="https://raw.githubusercontent.com/HibaSetti/Maroua-shopping/main/public/images/testimonial.png" title="Lorem ipsum 3." caption="Lorem ipsum."
         paragraph="“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Accumsan, cursus id pellentesque volutpat. Et et vestibulum quisque imperdiet id.”"/>
 
     </div>
@@ -52,6 +54,7 @@
     margin-bottom: 3%;
     background-color: #0F2A62;
     border-radius: 10px;
+    padding-bottom: 130px;
    
 }
 h1, p {
@@ -75,16 +78,20 @@ img {
 }
 /************************************************** */
 .carousel-inner {
-    padding-right: 65px;
-    padding-left: 19px;
-    padding-top: 16px;
+    border-radius: 10px;
+}
+#myCarousel {
+    margin-left: 32px;
+    margin-right: 102px;
+    margin-top: 40px;
+    
 }
 .carousel-control-prev, .carousel-control-next {
 	width: 30px;
 	height: 30px;
 	border-radius: 50%;
 	text-shadow: none;
-	top: 460px;
+	top: 107%;
     right: 65px;
     border: 2px solid white;
     opacity: 1;
@@ -112,6 +119,9 @@ img {
 }
 .carousel-indicators li.active {		
 	background: white;		
+}
+.carousel-indicators {
+    top: 108%;
 }
   </style>
   

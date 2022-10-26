@@ -48,7 +48,7 @@
     margin-top: 32px;
     font-size:12px;
 }
-.carousel .carousel-item {
+.carousel-item {
 	color: white;
 	font-size: 14px;
 	text-align: center;
@@ -65,7 +65,7 @@
 	
 }
 
-.carousel .testimonial {	
+.testimonial {	
 	padding: 30px 0 10px;
 }
 .carousel .overview {	
@@ -83,9 +83,6 @@ text-align: left;
 border-top-right-radius: 10px;
 border-bottom-right-radius: 10px;
 padding-bottom: 5%;
-}
-.row {
-    margin-bottom: 15%;
 }
   </style>
   
