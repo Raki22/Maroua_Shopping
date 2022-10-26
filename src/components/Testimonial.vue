@@ -17,7 +17,7 @@
             <p class="caption">Homerun customers share a passion for culture,
             design and innovation. We all agree hiring can be more meaningful and personal.</p>
         </div>
-            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
 	<!-- Carousel indicators -->
 	<ol class="carousel-indicators">
 		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>

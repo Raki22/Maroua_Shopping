@@ -6,6 +6,7 @@
    <News />
    <Testimonial />
    <WaitingFor />
+   <Footer />
 </template>
 
 <script>
@@ -15,7 +16,7 @@ import Join from './components/Join.vue';
 import News from './components/News.vue';
 import Testimonial from './components/Testimonial.vue';
 import WaitingFor from './components/WaitingFor.vue';
-
+import Footer from './components/Footer.vue';
 export default {
   name: 'App',
   components: {
@@ -24,7 +25,8 @@ export default {
     Join,
     News,
     Testimonial,
-    WaitingFor
+    WaitingFor,
+    Footer,
 },
 
 }
