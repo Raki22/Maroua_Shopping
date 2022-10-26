@@ -73,13 +73,13 @@
       <NavbarItem title="Blog"/>
       <NavbarItem title="Help"/>
       <NavbarItem title="Contact Us"/>
-      
+    </div>
       <form class="d-flex">
         
         <button type="button" class="btn btn-light">Log in</button>
       </form>
     
-    </div>
+    
   </div>
  </div>
 </nav>
