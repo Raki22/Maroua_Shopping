@@ -17,12 +17,7 @@ h1 {
 a {
   text-decoration: none;
 }
-@media (min-width: 1024px) {
-  .carousel .carousel-item {
-    display: inline-flex;
-     }
 
-  }
 /*
 #app {
   max-width: 1280px;

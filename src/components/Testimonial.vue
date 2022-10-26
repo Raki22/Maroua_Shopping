@@ -14,7 +14,7 @@
          <div class="row col-md-8">
       
             <h1>Join Marwa</h1>
-            <p>Homerun customers share a passion for culture,
+            <p class="caption">Homerun customers share a passion for culture,
             design and innovation. We all agree hiring can be more meaningful and personal.</p>
         </div>
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -55,12 +55,15 @@
     background-color: #0F2A62;
     border-radius: 10px;
     padding-bottom: 130px;
+    padding-right: 102px;
    
 }
 h1, p {
     color: white;
 }
-
+.caption {
+    font-size: 1.25rem;
+}
 .row {
     padding-top: 3%;
     padding-left: 3%;
@@ -81,8 +84,6 @@ img {
     border-radius: 10px;
 }
 #myCarousel {
-    margin-left: 32px;
-    margin-right: 102px;
     margin-top: 40px;
     
 }
@@ -92,7 +93,7 @@ img {
 	border-radius: 50%;
 	text-shadow: none;
 	top: 107%;
-    right: 65px;
+    right: 2%;
     border: 2px solid white;
     opacity: 1;
     
@@ -102,7 +103,7 @@ img {
 	margin-right: 2px;
 }
 .carousel-control-prev {
-	left: 19px;
+	left: 5%;
 }
 .carousel-control-next i {
 	margin-right: -2px;

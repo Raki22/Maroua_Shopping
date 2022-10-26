@@ -40,13 +40,15 @@
   <style scoped>
 
 .paragraph {
-    margin-top: 27px;
+    margin-top: 39px;
+    width: 89%;
+    font-size: 2rem;
 }
 .btn {
     border-color: white;
     color: white;
-    margin-top: 32px;
-    font-size:12px;
+    margin-top: 14%;
+    font-size:20px;
 }
 .carousel-item {
 	color: white;
@@ -54,7 +56,7 @@
 	text-align: center;
 	overflow: hidden;
 	min-height: 340px;
-
+    padding-left: 45px;
 }
 
 .img-box  {
@@ -66,7 +68,7 @@
 }
 
 .testimonial {	
-	padding: 30px 0 10px;
+	padding: 50px 0 10px;
 }
 .carousel .overview {	
 	padding-bottom: 5px;
